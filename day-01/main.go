@@ -86,7 +86,6 @@ func puzzle2Helper(fileName string) int {
 						firstChar = string(num)
 					}
 					lastChar = string(num)
-					continue
 				}
 			}
 		}
